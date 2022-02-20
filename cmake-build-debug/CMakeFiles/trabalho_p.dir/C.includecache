@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/miner/Desktop/UNI/p/trabalho_p/game.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+utils.h
+/cygdrive/c/Users/miner/Desktop/UNI/p/trabalho_p/utils.h
+game.h
+/cygdrive/c/Users/miner/Desktop/UNI/p/trabalho_p/game.h
+
+/cygdrive/c/Users/miner/Desktop/UNI/p/trabalho_p/game.h
+
+/cygdrive/c/Users/miner/Desktop/UNI/p/trabalho_p/utils.h
+

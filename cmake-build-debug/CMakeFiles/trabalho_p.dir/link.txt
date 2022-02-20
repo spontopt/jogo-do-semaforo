@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/trabalho_p.dir/main.c.o CMakeFiles/trabalho_p.dir/game.c.o CMakeFiles/trabalho_p.dir/utils.c.o CMakeFiles/trabalho_p.dir/menu.c.o  -o trabalho_p.exe -Wl,--out-implib,libtrabalho_p.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
